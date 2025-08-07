@@ -481,10 +481,10 @@ export default function HomePage() {
             <div className="space-y-4">
               <h3 className="font-semibold text-lg">Foundation</h3>
               <div className="space-y-3 text-sm text-gray-400">
-                <p>123 Foundation Avenue</p>
-                <p>Community Center, CC 12345</p>
-                <p>(555) 123-4567</p>
-                <p>info@supremecareconnect.org</p>
+                <p>Lagos, Nigeria</p>
+                <p>07046342625</p>
+                <p>Mon-Fri 9AM-6PM</p>
+                <p>odunsiadebayo24@gmail.com</p>
               </div>
             </div>
           </div>
