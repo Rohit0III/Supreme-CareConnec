@@ -92,7 +92,7 @@ export default function HomePage() {
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-indigo-500 rounded-3xl transform rotate-3 opacity-10"></div>
                 <Image
-                  src="/placeholder.svg?height=600&width=700"
+                  src="/careconnect.png"
                   alt="Community support and care"
                   width={700}
                   height={600}
@@ -310,9 +310,9 @@ export default function HomePage() {
               <div className="flex flex-col sm:flex-row gap-6 justify-center pt-4">
                 <Button size="lg" variant="secondary" className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 text-lg">
                   <HandHeart className="mr-2 h-5 w-5" />
-                  Connect Your Heart
+                  Connect 
                 </Button>
-                <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600 px-8 py-4 text-lg">
+                <Button size="lg" variant="outline" className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 text-lg">
                   <UserPlus className="mr-2 h-5 w-5" />
                   Change Lives Today
                 </Button>
@@ -342,7 +342,7 @@ export default function HomePage() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-1">Headquarters</h3>
-                      <p className="text-gray-600 text-sm">123 Foundation Avenue<br />Community Center, CC 12345</p>
+                      <p className="text-gray-600 text-sm">Lagos, Nigeria </p>
                     </div>
                   </div>
                   <div className="flex items-start space-x-4 p-6 bg-white rounded-xl shadow-sm">
@@ -351,7 +351,7 @@ export default function HomePage() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-1">Phone</h3>
-                      <p className="text-gray-600 text-sm">(555) 123-4567<br />Mon-Fri 9AM-6PM</p>
+                      <p className="text-gray-600 text-sm">07046342625<br />Mon-Fri 9AM-6PM</p>
                     </div>
                   </div>
                 </div>
@@ -361,7 +361,7 @@ export default function HomePage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Email</h3>
-                    <p className="text-gray-600 text-sm">info@supremecareconnect.org<br />partnerships@supremecareconnect.org</p>
+                    <p className="text-gray-600 text-sm">odunsiadebayo24@gmail.com</p>
                   </div>
                 </div>
               </div>
